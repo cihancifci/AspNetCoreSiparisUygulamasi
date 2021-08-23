@@ -1,0 +1,19 @@
+﻿@model List<Urun>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="card mr-1 mb-1">
+                <img src="" class="card-img-top" alt="Resim Yok!">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Ad</h5>
+                    <p class="card-text">@item.Fiyat</p>
+                    <a asp-action="UrunDetay" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-primary float-end">Detay Göster</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+

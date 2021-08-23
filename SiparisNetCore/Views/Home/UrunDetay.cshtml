@@ -1,0 +1,26 @@
+﻿@model Urun
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <img src="" class="w-100 img-thumbnail img-fluid" alt="@Model.Ad" />
+        </div>
+        <div class="col-md-9">
+            <div class="card">
+                <div class="card-header">
+                    @Model.Ad
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Ad</h5>
+                    <p><strong>Kategorileri :</strong> <getirCategoryAd urun-id="@Model.Id"></getirCategoryAd></p>
+                    <p class="card-text">@Model.Fiyat</p>
+                    <a href="#" class="btn btn-primary float-end">Sepete Ekle</a>
+                    <a asp-action="Index" asp-controller="Home" class="btn btn-danger float-end">Geri Dön</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
