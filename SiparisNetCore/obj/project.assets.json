@@ -6700,11 +6700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cihan\\source\\repos\\SiparisNetCore\\SiparisNetCore\\SiparisNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\cihan\\Desktop\\NetCore\\AspNetCoreSiparisUygulamasi\\SiparisNetCore\\SiparisNetCore.csproj",
       "projectName": "SiparisNetCore",
-      "projectPath": "C:\\Users\\cihan\\source\\repos\\SiparisNetCore\\SiparisNetCore\\SiparisNetCore.csproj",
+      "projectPath": "C:\\Users\\cihan\\Desktop\\NetCore\\AspNetCoreSiparisUygulamasi\\SiparisNetCore\\SiparisNetCore.csproj",
       "packagesPath": "C:\\Users\\cihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cihan\\source\\repos\\SiparisNetCore\\SiparisNetCore\\obj\\",
+      "outputPath": "C:\\Users\\cihan\\Desktop\\NetCore\\AspNetCoreSiparisUygulamasi\\SiparisNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cihan\\AppData\\Roaming\\NuGet\\NuGet.Config",

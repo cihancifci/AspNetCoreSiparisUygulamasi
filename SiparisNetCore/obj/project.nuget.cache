@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y6L8f6+sT+gOdsPds53BusrxzzHS33FwLpuPn5ZGim2YHqz8DP7cMgqXo74CpmVYHO7KYjce2Ww9x7T+vNhiBA==",
+  "dgSpecHash": "9BngrrvGvVapXRAnZV5d7dqG8sijHgjbI6bMRTRs2OgmQz/9RXEoyQc/ZnmJg+C0znYfyp+Snn/H6R2cNc9vLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cihan\\source\\repos\\SiparisNetCore\\SiparisNetCore\\SiparisNetCore.csproj",
+  "projectFilePath": "C:\\Users\\cihan\\Desktop\\NetCore\\AspNetCoreSiparisUygulamasi\\SiparisNetCore\\SiparisNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cihan\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\cihan\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
